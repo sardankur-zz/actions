@@ -1,0 +1,499 @@
+OE	Q	How is this system for ferrous iron and metallic ordors?
+OE	Q	Im concerned about noise level and I read lots of reviews that say this is noisy but how noisy?
+-	A	very and mine completely died out of warranty after 34 yearsgot a Sears Hotpoint now like it allot better
+OE	Q	stops at rinse and spin cycle why?
+YN	Q	Is it possible to add fabric softener but avoid the power rinse?
+-	A	It has to be something internal because we have had ours since November and it didnt come with loose batteries to put anywhere
+OE	Q	What are the interior dimensions of this freezer?
+-	A	Check this out httpwwwhomebrewtalkcomf35chestfreezerspecslayouts377518post4731047
+-	A	Its exactly 175 center to center
+-	A	Im sorry I couldnt tell you it doesnt say anywhere on it were was made
+OE	Q	What is the warranty on this product?
+YN	Q	Is this a genuine GE manufactured part?
+YN	Q	Can i sweat a 12 copper pipe to the brass fittings?
+YN	Q	My wash machine does not have a hot setting is there any way to adjust this so that the ratio of hot water is more than cold?
+OE	Q	Why is this valve not approved by plumbing inspectors?
+YN	Q	Are there any mounting tabs for securing it to the wall?
+YN	Q	Will this kit work on DLGX5171V
+-	A	This kit works on yours 383EEL3002D
+YN	Q	Does this part work on DLGX 3571W steam dryer
+YN	Q	Does this product work on DLG7188WM?
+YN	Q	Will this work on the DLGX3371R?
+YN	Q	Will this kit work for LG dryer Model DLG3171W?
+-	A	Yes that is the part that this dryer needs
+YN	Q	Will this work on a DLGY1702V Steam dryer?
+YN	Q	will this heating element work with a kenmore 11066112500?
+-	A	I am a repairman they are the same but a lot cheaper
+YN	Q	is this correct for a Kenmore 80 series model 66812694?
+OE	Q	When I type in my Maytag Centennial 3403585 part number this 279838 number comes up can you tell me if these are the same part?
+YN	Q	is this the correct heater for a roper model res7745rq0
+YN	Q	will this kit fit model REX5634KQ1Please let me know soon
+-	A	Yes according to the parts diagram for this machine this part will fit fine
+YN	Q	I have a Whirlpool Dryer model LEN2000PW0 would this heating element work ?
+OE	Q	Average wash time for Whirlpool WTW485OBW1
+-	A	Depends on the load setting but it is quite a bit slower than the older models that dont sense the amount of clothing in the washer
+YN	Q	Is the Whirlpool top loader washer WTW4800BQ0 a good machine?
+YN	Q	Does your washer sound like it is in a bind when it is washing?
+YN	Q	Does this washer have a agitator
+OE	Q	What is the companion electric dryer for Whirlpool WTW4800XQ4?
+OE	Q	how to fill washer with just hot water no clothes?
+OE	Q	how do you load the washer with just hot water and then add clothes and detergent ?
+OE	Q	how do you reset washing machine after replacing the lid lock switch
+-	A	Sorry Terri I have never had to do that
+YN	Q	iS IT NORMAL TO MAKE LOUD NOISE AT BEGINNING?
+YN	Q	can a fullsize comforter fit and wash in this washer
+-	A	For the money it is a good one We havent had any problems with it and I do laundry almost every day
+YN	Q	Can u fit a slim 14 and a 16 together?
+OE	Q	Just want to confirm this unit comes with all the tubing needed so all I need to do is get co2 gas and it is ready to go
+YN	Q	Is the interior of the unit stainless steel ?
+OE	Q	Does this kegerator hold colors light or rubber kegs?
+YN	Q	does it have onoff switchtemperature measures in fahrenheitmeasurements
+OE	Q	How long will provide a device I want a large amount ?
+OE	Q	Does it measure altitude in feet meters or both?
+OE	Q	What are the external width and depth of the chimney for this model?
+-	A	indeHomes offers this item with free shipping
+OE	Q	How tall is the stack on this E159 Broan hood?
+OE	Q	how would you rate noise level?
+OE	Q	Does the freezer open as a drawer or a door?
+OE	Q	can the can holder be removed or replaced to make the area usable for something other than cans?
+YN	Q	I need a fridge this size for my bedroom can it be plugged into a normal wall socket?
+-	A	This refrigerator should take normal wall socket but I would check the installation manual to be sure
+-	A	No but good size freezer for ice trays and a freezer drawer below
+YN	Q	does it have separate temp controls for white and red wine
+YN	Q	Does this model have front vents?
+YN	Q	Will the Frigidaire hand magnums?
+OE	Q	Does the cooler have a humidity control feature or keep the humidity level constant at 70
+OE	Q	Hello How low this freezer will go?
+YN	Q	Does the freezer have a drain at the bottom to use when defrosting
+-	A	No like most chesttype freezers it is not
+YN	Q	Does this work on the regular house plug?
+-	A	Yep standard wall socket plug 120AC
+OE	Q	What are the outside dimensions of the freezer?
+OE	Q	What are the INSIDE dimensions of this freezer?
+-	A	Height 35 Width 7325 Depth 295 Thank you
+OE	Q	What are the dimensions of this product in the box?
+YN	Q	Will this fit fisher paykel dryer model DE08 US2
+YN	Q	Will this set fit GE model egd3000boww gas dryer
+YN	Q	Will this set fit GE model GFDN110GL0WW gas dryer?
+YN	Q	Will this fit a GE model DHDSR46EE1WW electric dryer?
+OE	Q	Under qty it shows we1m33 listed twice for a qty of 4 do I receive 4 of those or do i receive two we1m481 and two we1m333 ?
+YN	Q	will this also fit GE WE14M124 Top Bearing as a replacement?
+YN	Q	Is this part compatible with Hotpoint model number nvlr223eh1wo?
+YN	Q	My Ge dryer model is W25M40 will this fit?
+YN	Q	can queen comforter wash in this
+-	A	Yes I wash my king comforters in it and it does just fine 
+OE	Q	Where can I get parts like the drainage hose?
+OE	Q	How do you deal with the washer spinning out so much that the clothes are horribly wrinkled?
+-	A	I have not noticed that problem
+YN	Q	Does this fit old cooktop with downdraft and knobs in center front?
+-	A	My unit was over 25 years old and it fit perfectly  much better than the universal parts offered by most appliance parts stores
+OE	Q	Is the stem on this D shaped or doubleflat sided?
+-	A	The included instructions are very clearthis part will work on the older jennair stove tops
+-	A	This switch does not look like the same one I installed
+YN	Q	will this fit model 3 CF220b cook top part 374 03p40260
+OE	Q	Does this work on the f221 model OR does it have the clockwise rotation start at HI and decreases to LO ie LO is to the left of the OFF at bottom
+-	A	You can push and turn either way yes low is left of off at the bottom
+YN	Q	will this replace AP4087111 on a C201C jenn air cooktop?
+-	A	yes But some day you will get tired of fixing the old appliances check out some of the sales 12 price for new 1 to 2 years old
+OE	Q	Is this range hood a 12 volt or 120?
+-	A	Seems to move a fair amount of air and smoke through but I dont think any of these type of hoods do all that much
+OE	Q	What are the exact width outside Product Description 20 but Product Dimensions say 22 Please give exact width please?
+-	A	These Deep Burner Covers are 19 inches long 11 14 inches wide and 1 12 inches deep
+-	A	To be honest I am uncertain now
+YN	Q	Is there a different filter available that removes fluoride?
+-	A	I used it to replace my Kenmore 9930 and havent had any problem
+YN	Q	are the W10295370A and W20395370 filters the same?
+YN	Q	Does one need to flush this filter before use?
+YN	Q	Does one need to flush this filter before use?
+YN	Q	Is this filter can replace  P4RFKB2 or P4RFKB12
+YN	Q	Will this work for Replacement cartridge P4RFKB2
+-	A	I suggest replacing filter with the manufacturer approved part number
+YN	Q	Should the filter make a strange woosh noise like air when putting in the new filter?
+OE	Q	What are the exact dimensions of the 6Inch and 8inch pans?
+-	A	My new ones measure 7 12 and 9 34 as well should fit my stove is an older GEouter edges measured
+YN	Q	Will they fit Roper model FE930GW?
+YN	Q	Will they fit a Whirlpool RF365BXFN?
+-	A	I am not sure about a whirlpool but the 8 inch pan sure doest fit a kenmore
+YN	Q	are these fit jbs27wc1ww range?
+-	A	Yes this set fits standard 6 and 8 bowl which your model seems to fit standard
+YN	Q	Will any of these ceramic drip pans fit a Frigidaire cook top?
+YN	Q	Are these relatively easy to clean?
+-	A	Yes they are pretty much non stick and can be easily cleaned
+YN	Q	will a whirlpool duet wd fit on this ?
+YN	Q	will this pedestal fit WFW70HEBW0 model?
+YN	Q	Will this fit WFW9250WW and WED9250WW
+YN	Q	will it fir Maytag MAH5500 series?
+YN	Q	will this fit the whirlpool duet WFW96HEAW FRONT load washer?
+-	A	Specifications CutOut Dimensions 1625 L x 115 W x 281 D Overall Dimensions 18 L x 13 W
+YN	Q	Can you use a pressure cooker on this Cooktop?
+OE	Q	Can it use natural gas or only propane?
+YN	Q	Will this elementthermostat combo fit a Roper model noREX3514PQO?
+OE	Q	Can I connect the venting pipe from the side or it has to come from the ceiling?
+-	A	We doubt it but honestly dont know if it will work for a 10 ceiling and the extension kit is a question for the manufacturer
+YN	Q	I have a 80 inch high ceiling will this work
+-	A	Yes itll work its designed to work for up to 8 foot ceiling
+OE	Q	what is the minimum number ot inches from the ceiling that this unit can be adjusted to
+OE	Q	just to confirm i can use this model for a ventlessductless island?
+-	A	It has a recirculating charcoal filter so there is no need for outside ventsducts
+OE	Q	I have a rural home and use a water well that is giving me sandy colored water that has sand in it can you tell me where you put the filter please
+YN	Q	Is it OK to clean the filter element manually using clorox?
+YN	Q	IS THIS THE SAME FILTER LOWES SELLS ?
+YN	Q	I am looking for a filter to screen out weed seeds from ditch water will this do the trick?
+-	A	It should it is a very fine screen
+OE	Q	What is the height of the base were having a clearance problem with our shutters in the window above our sink and need something about 4 inches tall
+OE	Q	What are the measurements of the mounting hole?
+-	A	It comes with a finish trim piece to make it fit a standard sink sprayer or soap pump hole which is 125
+YN	Q	Can you lock the button open so you dont have to hold it down to fill a large pitcher or something?
+-	A	The handle on this faucet is not spring loaded so it does not have to be held to dispense
+OE	Q	What sizediameter is the connection line to the water supply?
+OE	Q	Is this faucet metal or plastic?
+OE	Q	Each water supply is different but in general how often does the filter need to be replaced vs regular cleaning?
+OE	Q	What is the head loss thru the filter w 100 mesh screen?
+YN	Q	I think I get the intended use of this but I just want to make sure Can this be used as a pre filter between my well and well pump?
+-	A	Yes it could but I dont think it is recommended to put a filter on the suction side if your pump
+OE	Q	What grid filter comes with this model?
+-	A	Same as replacement filter listed under buy also
+OE	Q	what kind of a rating would you give this ice maker?
+OE	Q	going on vaca with no stores to get ice need to bring my own and keep frozen will this do the job?
+-	A	WOULDNT BUY IT DONT LAST LONG FOR THE MONEY
+OE	Q	I need to know if the inside part of the ice maker down where the water goes is stainless steel?
+OE	Q	where can I locate an owners manual?
+OE	Q	I am wondering if this would fit Amana front load washer model NFW7200TW
+OE	Q	Do you know if This type of drain hose can be used for portable Magic Chef  washer machine?
+YN	Q	Does this dran hose work with Whirlpool model LSR8444LQ0?
+OE	Q	Can anyone tell me IF I can use this hose to extend a 6 ft washer drain hose that is already attached?
+YN	Q	would you recommend this for a top loading HOTPOINT washer
+OE	Q	I have a kenmore side by side model  57398601 will this control board work with it?
+OE	Q	Is this unit counter top or built in?
+YN	Q	If both burners are used at the same time will power be split between the two?
+YN	Q	is this Eurodib induction cooktop manufactor made in china
+OE	Q	Power Requirements and output Can the description be amended to include these items?
+OE	Q	how do i reboot a kitchen aid kude60hxss5 dishwasher because the blue light on the front is flashing and the cycle is getting interrupted ?
+YN	Q	Is water cold during first cycle
+OE	Q	What is the voltage and frecuency of the dishwasheriquest
+-	A	United States standard 120 volts AC 60 Hertz cycles
+YN	Q	Is this a Nelsen scale prevention system?
+-	A	No you have to lay one row on their side
+-	A	It measures 205 with the hinge at the top for the doorso dont do it
+YN	Q	I see the measurments but it does not specify which one is the widthdepthheight can anyone give these to me?
+YN	Q	Can someone please provide me with the exact dimentions height width?
+-	A	No it is different than W10335147A
+YN	Q	Can one buy just the carbon paper that goes in the filter?
+OE	Q	whirlpool conquest refrigerator GS6SHEXNS air filter locationi cant find where it goes
+-	A	On my Whirlpool refrigerator at the back of the top shelf in the center is a panel FreshFlow Air Filter that you remove to place this filter into
+YN	Q	Do you change the whirlpool fresh filter when tab is completedly red?
+YN	Q	Does the filter come with the filter status indicator
+YN	Q	will they fit a a maytag cooktop too
+YN	Q	Do the whirlpool drip pans fit a Caloric electric stove?
+OE	Q	Do the pans have the rim around the edge or do they fit into a separate rim?
+-	A	They have a rim that sits on top ove the stove top its maybe 14 over
+-	A	Somewhat shiny but not obtrusive
+YN	Q	Will they fit a Frigidaire stove
+YN	Q	Do these fit the Kitchenaid range?
+OE	Q	My electric stove is Danby model DER3009W would these work?
+YN	Q	I have a GE stove over 20 years old will they fit?
+YN	Q	Is this a drip pan and ring combo?
+OE	Q	Are they easy to keep clean or does it require a lot scrubbing re the black set?
+YN	Q	is the price for all the fourt drip pan
+-	A	not sure wifes range is about 1 year old they fit it fine hope this helps
+-	A	I live in Hawaii and I havent had one rust
+YN	Q	will they fit an old caloric range?
+YN	Q	Will these fit my whirlpool model rf365pxy electric range?
+-	A	Yes these are the correct drip pans for Model  rf365pxy
+YN	Q	Do these have the small rectangular hole so the burner clip will fit through
+YN	Q	Do these fit a Fridgidare Stove ?
+-	A	I returned the product because it did not fit my GE stove
+OE	Q	after two uses the large drip pan has paint missing can this be replaced or repainted
+-	A	Mine chipped too I am going to try appliance touch up paint
+OE	Q	How do I measure for drip pan size?
+OE	Q	How long do the Grey Biscuit pans last?
+YN	Q	is this compatible with the samsung 9100 series washer?
+OE	Q	Does someone know if this would stack ANY combination of samsung washers and dryers?
+OE	Q	I have enough silverware baskets in my dishwasher but wondered if this basket will fit on the top rack?
+YN	Q	Will this work on Maytag dishrack?
+-	A	Big enough to fit a king size comforter
+-	A	Im sorry I dont have the dryer and Im not sure if you can stack on it
+YN	Q	is the manufacturers warrenty intact?
+YN	Q	is this big enough for a queen sized comforter?
+-	A	never tried i always a large commercial machine at the laundry mat for that
+YN	Q	is this big enough for a queen sized comforter?
+OE	Q	what is the matching dryer to this washer?
+-	A	You sure canI place them directly in the bucket with riceThis is a great product and good place to get them
+YN	Q	can I just throw them in trash can that has a mix of boxed and sealed foods?
+-	A	maybe  But it has to be airtight
+OE	Q	How can I tell they are working
+OE	Q	How many would I have to put into a 1 gallon bag?
+-	A	Yes but you will also need to buy hinges hinge brackets and hinge mounting plates
+YN	Q	will the dustcover be double boxed for protected mailing?
+-	A	We will put bubble wrapping then had card board before shipping
+YN	Q	Will this cover also fit on the mk2?
+YN	Q	are the holes already drilled for the hinges?
+YN	Q	Will this fit a vintage SL1500?
+-	A	no these are for SL 1200 OR SL 1210
+OE	Q	How do you change the temperature reading from centigrade to Fahrenheit ?
+OE	Q	What are the dimensions of the unit?
+YN	Q	Has anybody compared the readings from this thing to a higherend RH monitor?
+YN	Q	Does this remove the mold and stains as well as kill it?
+OE	Q	Does this kill hantavirus and can it be used in a fogger?
+OE	Q	What is the difference between the disinfectant amp presoak solution?
+-	A	I was under the impression it is all one thing
+YN	Q	do I need to dilute the solution before spraying ?
+YN	Q	Does any one know if this product can be safey used on leather seats of a vehicle?
+-	A	Hi I have used it on leather seats in my home theater when we had a little flood as a preventive with no problems
+-	A	Go to the item and Look at the picture on the back to see if the shape of the hole matches
+YN	Q	Will these knobs fit a GE Model JB630RFSS
+YN	Q	Does this fit a GE Profile gas range with number 183D8269 stamped on the back?
+-	A	No its for the GE Profile Electric Cooktop
+YN	Q	Will this fit on stove model EER4001N02SS
+-	A	My old knob had the same insigna  stamped inside it might just fit
+YN	Q	CAN THESE KNOB FIT A 317B6641P001
+YN	Q	Can these knobs replace the black ones provided for the JGB630REFSS Stainless Steel model?
+-	A	Yes they replaced by the stock ones fine bit the inside components are thinner if that makes sense
+YN	Q	DOES THIS FIT ON A GE JBP84SMSS?
+-	A	I believe it is the hole on the back of the knob is in the shape of a D and slips over the post on the stove
+YN	Q	Will this work for the JB700S N1SS range?
+YN	Q	Does this product come with porcelian wire nuts?
+YN	Q	Will this work on GE model JBBP28DEJ1CT
+-	A	That does not seem to be the right model number please check it and repost your findings
+OE	Q	i have a jgbs17pea2ad model will this ignator work on this model
+YN	Q	Will this work on Hotpoint RGB745BEHFWH?
+YN	Q	Will this igniter work on my GE Oven Model JGBP80CEH2CC Serial VF264505P?
+YN	Q	Will it fit model number jgbp28teh3ww
+YN	Q	Will this work as a replacement for Part PS243425 for GE range model JGBP28DEJ1CT
+YN	Q	Will this work for a GE XL44 Model JGBP79?
+-	A	I dont know I have a JGPB30 and it worked for mine
+YN	Q	Will it fit model  JGBP33GES2BB
+YN	Q	Hello will this work with model JGSP28SENISS?
+OE	Q	it will fit that model GEXL44 ?Self Cleaning Range Oven Round Style Oven or Broiler Igniter part model jgbp35wea1ww
+YN	Q	will it fit GE model number JGBP34WEW1WH?
+-	A	Yes it is the correct replacement for that model per AppliancePartsProcom
+OE	Q	What are the actual dimensions of this item?
+YN	Q	Will this rack fit GE Toaster Oven 169220 53?
+-	A	Dont know about that particular toaster oven but the rack fits in my full size oven
+OE	Q	How much height does the lip in the back add?
+YN	Q	Are the dimensions 264 x 194 x 2 inches the rack itself or the package it comes in?
+YN	Q	Does this rack fit the GE Range JGB285?
+YN	Q	will this oven rack fit model JBP66COK3CC
+-	A	It should just measure the width and depth to be sure but it is a pretty standard rack
+YN	Q	Will this hose work with a GE wsxh208a1ww washer?
+OE	Q	I have a GE model  GLC4400R10BB and from what I can find the part  is wd24x10042 just trying to make sure this will work on mine before ordering?
+-	A	A piece inside faucet attachment broke that keeps water from coming through attachment no way to fix it other than replacing the who part
+OE	Q	Is the end that hooks to the washing machine have a screw on end and a clamp on end or just the screw on end?
+YN	Q	Will this unicouple assembly fit a Whirlpool builtin dishwasher making it work like a portable dishwasher?
+YN	Q	Does this work on a GEGSC720Y01WH?
+YN	Q	Can i use this on a kenmore portable dishwasher?
+-	A	Yes u can thats what i used it on
+-	A	it attached right my faucet i didnt need to purchase anything else
+YN	Q	Will this fit my washer model WCVH6260FGG?
+OE	Q	This will fit model WCVH6800HBB correct?
+YN	Q	is this an original general electric piece?
+-	A	We didnt need anything else to install
+YN	Q	Will this fit GE model WBVH6240HWW
+YN	Q	Will this motor fit my coin operated GE electric Model DMCD330EJ0WC
+-	A	WE17X10010 WILL FIT DPSB513EBOWW
+-	A	YES the GE model We17x10010 comes with 2 screw on pulleysconfirmed
+YN	Q	Will this motor replace GE Motor Model  5KH45BR75S?
+YN	Q	will this motor fit GE model DBLR333ETOWW?
+YN	Q	Will the we17x10010 replace a we17m37?
+-	A	Yes WE17X10010 will replace WE17X32
+YN	Q	Does this knob fit a GE Model GTDP180EDOWW Dryer?
+OE	Q	Does anyone know it this works with GE mod  DBSE463EG6WW
+YN	Q	Does this assembly also work for GE washer?
+-	A	not sure it didnt last more then 3 months before this one broke too so not overly pleased with it
+YN	Q	Does this knob fit a GE Model GTDX100EMOWW Dryer?
+YN	Q	Does it fit model  GTDP300EMOWS
+-	A	Dear Lisa My dryer is a GE but with a different model Number so I dont know
+YN	Q	Does this part work on model dbsr463eg7ww
+YN	Q	Does this fit for dryer model GTDX180EDWW?
+-	A	if you mean GTDX180ED1WW or  3WW the part number is WE1M856 so I cannot tell you if it will fit
+YN	Q	does this knob fit a ge model DVLR223EG7WW dryer
+YN	Q	Does this work for GE model PFSS6PKXSS refridgerator?
+YN	Q	does this by pass work on ge model TFX25ZPBO
+-	A	This should work on any fridge that uses the MWF filter
+YN	Q	Do you have a water filter bypass plug for a GE Profile Model PSH23PSRASV Refrigerator?
+YN	Q	Does this work for GE model GSH25JSDESS refridgerator?
+YN	Q	Do you have a water filter bypass plug that for a GE Profile Model PSH23PSRASV Refrigerator?
+-	A	i have a ge wro2x11705 plug dont know if it will fit your model i dont have any way of telling
+YN	Q	will it work for model gss25qatvss
+YN	Q	Will it replace the GSWF filter?
+YN	Q	Does this part fit a GE model refrierator model GSH22JSDD SS?
+OE	Q	Model CSHS6UGZB do you know what water filter plug works on this cafe model refrigerator?
+YN	Q	does this transmition fix my ge td1370db washing machine
+YN	Q	Could failure of this part cause a slow leak and weak uneven agitation?
+OE	Q	does it come with the tub seal or do need to order one
+OE	Q	my ice maker stopped working after I replaced the water filter now no water comes into the ice maker why
+YN	Q	Does this replace the FILTER ASM AND TUBE fpr GE LSS25XSW?
+-	A	Not enough infoAre you talking about the back of the refrig or inside the refrig around the filter
+-	A	No the correct part  is GE WR30X256
+OE	Q	G5l25jfphbs serial  tg231048 will this work?
+-	A	I dont know I have model gss25qpgd bb it was an exact replacement for my GE fridge
+OE	Q	I have a model gss23wgsc refrigerator will this work?
+OE	Q	I have GE PTC22MFMAL and wonder which bucket and auger will fit
+-	A	Im not sure wasnt sure about my fridge I just ordered it and it fit works perfectly
+YN	Q	Does it comes in original GE Box?
+OE	Q	I installed a new fan motor wr60x10074 and new mother board but fan still does not run what am I missing
+OE	Q	If refrigerator fan WR60X10074 is compatibility with WR60X10185
+-	A	Fan motor is the sameThe only different is 74 has temperature control and 85 does not
+OE	Q	I need a WR60X10185 with a sensor and this model looks the exact same will it work?
+-	A	It is supposed to heat constantly
+YN	Q	Does this work on model psc23mgsa bb
+OE	Q	Think this would work on a GSH25JFXBB?
+YN	Q	Will this work for gsl25jftabs?
+YN	Q	will this work on model ess25Lsna bs
+-	A	Yes This will work on your model
+YN	Q	does this work on model PSC25NSTB
+-	A	GE does not list this as a repair item for this model  but this modification can be used on most models With a water dispenser
+-	A	This modification kit works well
+-	A	Couldnt say for sure but I think it would
+YN	Q	Will this work on a GE GSH25JSTA SS?
+YN	Q	Will this fit a Model GSH25JSxn
+OE	Q	GE refrigeratormakes ice cubes but will not dispense them?
+-	A	There are a couple of reasons but I found the easiest and most economical solution was to replace the ice maker
+OE	Q	How do I remove a built in GE Monogram refrigerator to get to the valve in the back?
+YN	Q	will this fit in the refri PMZF2LFBAFWW
+YN	Q	the connection the water comes in on cracked plastic Does this piece come with it?
+YN	Q	does it come with seal and bearing
+YN	Q	Does a GE washer model HDRE526E1WW have both the WH38X10002 Transmission and Brake Assembly AND the WH38X10017 Shaft and Mode Shifter Assembly?
+-	A	You are going to have one or the other and your model doesnt use the WH38X10017 shaft and Mode Shifter Assembly
+OE	Q	this part works for the washing machine model wcsr2090g4ww?
+-	A	Dont think sodont no for surecant find that model no in english
+YN	Q	does this fit the pshs6rgxcdss?
+-	A	Yes according to GE parts department this Bucket and Auger Assembly fits model pshs6rgxcdss
+YN	Q	Will it fit a model pss26sgra ss?
+YN	Q	will this fit ge profile model  pss266ngsc cc?
+-	A	Go to GE webite put in your model number look at the parts list to see if its a replacement
+YN	Q	Will this fit a GE PSS23MGTE CC
+-	A	Go to the GE website put in your model number go to the parts list then see if it is a replacement
+-	A	look for WR55X10942 control board as this board replaces many of the control boards as a universal replacement including yours for your model number
+-	A	HonestlyI Believe your model numberis incorrectrecheck the model number  I will be more then happy to try to help you
+YN	Q	will this board work for a GE GSL25JFRFBS?
+-	A	You can check the diagrams for parts here httpwwwappliancepartsproscompartsforgegsl25jfrfbshtml
+-	A	It fixed my problem and the instructions that come with it are good just read and follow them
+YN	Q	Is this valve for both the water dispenser and ice maker?
+YN	Q	Will this water inlet valve WR57X10333 work on a Sears Kenmore Bottom Freezer Refrigerator Model 79576204901
+YN	Q	Does it matter what color wire is connected to the pins on a GE WR57X10033 water valve?
+-	A	As long as you have the proper harness connected to the proper valve then polarity of wires does not matter for this valve solenoid
+OE	Q	My refrigerator is GE GTR18BBS  will this work?
+-	A	it worked just fine for me and its still workong
+-	A	This is virtually universal for GE even though it may not look like your original
+OE	Q	Will this unit give me two readings  one where the main display is and another where the remote is placed outside?
+-	A	Yes it does give a reading from the remote sensor and also a reading from the receiver itself
+OE	Q	How many feet from the humidifier does the sensor read?
+YN	Q	can you put the sensor in the crawl space under the house and it work?
+-	A	That is standard for all filters of this type
+YN	Q	Will this work for model  10659429801?
+OE	Q	your add stated  2 pack  are there 2 seperate 469010 filters ?
+YN	Q	Is this filter the same as Kenmore 46 90102
+YN	Q	will this work for model 10651103111
+-	A	You need to check the user manual on your end
+YN	Q	will this filter work in a kenmore coldspot 10657789704?
+YN	Q	is the whirlpool 4396508 the same as kenmore 90102 refrigerator filter
+OE	Q	Good morning I would like to know where I can buy the recirculation kit for Cavaliere SV218Z2 Island Mounted Range Hood
+-	A	Good day You can buy it from the Amazon page then we would confirm with you your model so that you could be sent the correct kit for your hood
+YN	Q	good afternoon would like to know if this kit is compatible for CavaliereEuro model SV218Z2I42 42 Inch 900 CFM Island Mounted Stainless Steel Range
+YN	Q	is there a way to tap both keg at once for use
+YN	Q	can this be used to force carbonate beer?
+YN	Q	Will this fit a 25 gallon corny keg about 15 high 8 diameter?
+OE	Q	is this a thermoelectric cooler or does it use a freon compressor unit like a standard refrigerator?
+YN	Q	can you screw off the black tap handle and put on a different one?
+-	A	It turns slightly but I dont think it will come off
+YN	Q	Do they work with the k45 Keurig brewer?
+OE	Q	how long does one filter last before it has to be replaced?
+YN	Q	Will it fit my Keurig coffe maker?
+YN	Q	Will this work in the Keurig Vue V1255?
+-	A	I dont own that model but if your coffee maker was made after 2007 the description states it will fit
+YN	Q	Are the filters genuine Keurig water filters?
+YN	Q	Will these work in the Kuerig single cup maker?
+-	A	IT uses the same frame as A 30 stoveoven
+OE	Q	Why is this 499 for shipping and does this come in black?
+OE	Q	what is the difference between the 4638447 and an 38447 please?
+-	A	We received this filter and it simply snapped onto to the connections from the old filter with no problem
+OE	Q	Where can I get connectors for kenmore filter 4638447?
+-	A	I purchased the filter and fittings all together here httpwwwamazoncomgpproductB00475A7U2refohdetailso03s00i01?ieUTF8psc1
+YN	Q	Is this filter a replacement for 38442?
+YN	Q	will the Kcm22WF water filter fit the KCM1402 coffee maker
+YN	Q	will kcm22wf fit a kcm1402 coffee maker ?
+YN	Q	Will these filters work with the KitchenAid Model KCM223CU0?
+OE	Q	I have a frigidaire side by side ice maker looks just like this cant find a number except on icemaker model MI 0109031 will this fit?
+YN	Q	Will this work on a Fridgeidaire FFHT1817PSO ?
+-	A	Yes this will work on your model
+OE	Q	Please verify this is the correct ice maker for Frigidaird Model  PLRS267zab7?
+OE	Q	How long does it take for the ice maker to start making ice after installation
+YN	Q	Will this fit Frigidaire Model FRS22XGCB2 SN LA60701556
+-	A	Your fridge model number will work with the RIM277 Supco Replacement Icemaker
+YN	Q	will this fit Frigidaire FRS6HR5JB4?
+OE	Q	My model is 25378983800 and ice maker AD18 which ice maker do you have to replace mine?
+YN	Q	I need to replace a frigidaire icemaker Part  IM115 will this fit?
+-	A	yes everything is included to install the ice maker might need to get the water line for this
+YN	Q	Is it possible to have it cut down to four Feet?thanks
+YN	Q	I cook Thaifoods on gas stove will this hood be the right one for me?
+OE	Q	What is the CFM at low and medium fan speed?
+-	A	most of the time i use it at midium speed and no smell but i cannot tell you the cfm
+OE	Q	Does this unit plug into regular 3 prong outlet or does it need to be hard wired?
+YN	Q	is the underside area behind the lights difficult to keep clean?
+OE	Q	How does the delay shutdown function work?
+-	A	Hi I am not sure because I returned the unit
+OE	Q	Does it have just a clock or does it also have a timer?
+YN	Q	Is this range hood quiet when it is on?
+OE	Q	What is package box dimension for this?
+OE	Q	Where and how do you buy the chimney extension?
+YN	Q	can the unit be vented out of the wall and not the roof
+YN	Q	can the unit be vented out of the wall and not the roof
+-	A	Yes but but the vent opening will be a bit big
+OE	Q	I have a Kitchen Aid KCM1402 coffee maker will these pods fit
+-	A	No they do not  I wasnot happycant find one that does fit
+YN	Q	Do these work with the KitchenAid KCM1402 coffee maker?
+-	A	They fit however the clean filter alert on the LED display does not go away when I use them
+YN	Q	Does this water filter fit Kichenaid KCM223 coffee maker?
+YN	Q	is there another filter that fits a KCM1202 coffee maker?
+OE	Q	How often do you replace these things?
+YN	Q	does it fit the kitchen aid coffee pot model kcm140?
+YN	Q	Will this filter work for a samsung model RF267AERS?
+-	A	It should it is for Samsung but that is not the model frig I have  It is well worth the money  12 the price of Lowes
+YN	Q	Is this model compatible with samsung RS21HDUSW1 ?
+YN	Q	Does this filter work in a Samsung model rf268abwp refrigerator?
+OE	Q	I have had conflicting reports  one says it works with the French Door Samsung Model RFG238AAESAA and another says it wontWho is right?
+-	A	I have an RFG297AARS and they work fine
+YN	Q	Will this filter work on an Rfg295a
+OE	Q	What is used to filter the water?
+YN	Q	Will this filter work on my Samsung Model rsg257aabp?
+-	A	I think this should work on most Samsung models as long as yours looks similar to what this picture is it should be the same
+OE	Q	Any one had problems using this specific filter brand in a Samsung RAG257AARS fridge?
+-	A	Ive been using one as a replacement a few months now no problems
+-	A	my electrician had to install a special outlet for the stove so I think yes
+YN	Q	Do either of the ovens have a broiler?
+-	A	both ovens have broil function only bottom oven has convection though
+YN	Q	Does the oven come with a propane conversion kit?
+-	A	Yes it has a regulator on the back for propane or ng but I would call kitchen aid to make sure nothing else isnt needed
+YN	Q	can you cook a turkey in any of these ovens
+-	A	Yes the bottom oven works well for a turkey the top oven would be too short
+YN	Q	If the power is downoff at your home can you still use the burners by lighting them with a match?
+OE	Q	i thought it also controled the fan opperations ?
+YN	Q	Can you use more than one remote for two zones
+OE	Q	What is minimal Redlink thermostat system I can use to control the temperature of the room I am in with the Portable Comfort Control?
+OE	Q	How can I tell if the wiring for my existing thermostat is compatible with this system?
+YN	Q	does this come with an LP conversion kit?
+OE	Q	what is the BTU for each burner?
+-	A	Left Front Burner High 5000 BTU Right Front Burner High 12500 BTU Left Rear Burner High 12500 BTU Right Rear Burner High 9200 BTU
+YN	Q	Does this come with an LP conversion kit?
+-	A	Yes it comes with packet of different sizes to convert to LP
+YN	Q	I would have to install this on a shelf thats lower than my sink would the pump be able to pump the water up into the sink?
+OE	Q	Actual size Does anyone know which is correct?
+-	A	1718 H x 2112 W x 1958 deep plus 2 so 2158 when the hose is connected to the back
+YN	Q	Does the SPT Portable Countertop Dishwasher require a sink with a garbage disposal?
+YN	Q	Are there any limitations as to what dishwasher detergent etc we can use?
+OE	Q	Does the unit run off 110V or 240?
+YN	Q	Does it have 3 prong washer amp dryer electrical connections or 4 prong?
+YN	Q	Can I use this machine in Chile?
+YN	Q	can I wash and dry at the same time?
+-	A	I cannot remember how much writing was on the box but it was a big brown box
+OE	Q	Is this model 32 inches wide or deep?
+-	A	27 wide 32 deep plus extra depth may be needed behind for vent hose depending on exactly where the dryer vent hose connects on your wall
+-	A	amazon does sell separate warranties but we do not on amazon unit does come with 1 year parts and labor
+-	A	My stove came with the conversion kit
+YN	Q	Can I connect this cooktop to a regular BBQ propane tank?
+YN	Q	Does it come with propane converter?
+-	A	I have propane also you just need to get the converter adapter from gas to propane
+-	A	Yes but you have to change orfic that comes with it
+YN	Q	does it extract water from wet clothes
+-	A	no forced extraction but a drain hose and gravity

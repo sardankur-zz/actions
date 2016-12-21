@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Action",
+  "version": "1.0",
+  "description": "Creates a UI from email.",
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "lib/jquery.js",
+    "lib/gmail.js",
+    "main.js",
+    "images/ic_extension_1x.png",
+    "images/ic_extension_2x.png"
+  ],
+  "permissions" : [
+    "http://localhost:5000/*",
+    "https://localhost:5000/*"
+  ]
+}

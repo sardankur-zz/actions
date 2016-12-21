@@ -1,0 +1,499 @@
+FT	T	Q	What is the most frequently spoken language in the Netherlands ?
+FT	T	Q	What is the primary language in Iceland ?
+FT	T	Q	What do bats eat ?
+FT	T	Q	What fruit is Melba sauce made from ?
+FT	T	Q	Name a food high in zinc .
+FT	T	Q	What is the active ingredient in baking soda ?
+LOC	T	Q	What county is Modesto , California in ?
+LOC	T	Q	What city had a world fair in 1900 ?
+LOC	T	Q	What is the capital of Yugoslavia ?
+LOC	T	Q	Where is Milan ?
+LOC	T	Q	What is the oldest city in the United States ?
+LOC	T	Q	What is the largest city in the world ?
+LOC	T	Q	What county is Phoenix , AZ in ?
+LOC	T	Q	What is the capital of Mongolia ?
+LOC	T	Q	What city has the zip code of 35824 ?
+LOC	T	Q	What city 's newspaper is called `` The Enquirer '' ?
+LOC	T	Q	What are the twin cities ?
+LOC	T	Q	What is the capital of Ethiopia ?
+LOC	T	Q	What is the largest city in the U.S. ?
+LOC	T	Q	What is the capital of Persia ?
+LOC	T	Q	What city 's newspaper is called `` The Star '' ?
+LOC	T	Q	What is the capital of Zimbabwe ?
+LOC	T	Q	What Canadian city has the largest population ?
+LOC	T	Q	What city is also known as `` The Gateway to the West '' ?
+FT	T	Q	What was the first satellite to go into space ?
+FT	T	Q	What was the most popular toy in 1957 ?
+FT	T	Q	What is the name of the satellite that the Soviet Union sent into space in 1957 ?
+FT	T	Q	What was the name of the first U.S. satellite sent into space ?
+NUM	T	Q	How far is it from Denver to Aspen ?
+NUM	T	Q	How tall is the Sears Building ?
+NUM	T	Q	How far is the service line from the net in tennis ?
+NUM	T	Q	How tall is the Gateway Arch in St. Louis , MO ?
+NUM	T	Q	What is the length of the coastline of the state of Alaska ?
+NUM	T	Q	What is the diameter of a golf ball ?
+NUM	T	Q	What is the earth 's diameter ?
+NUM	T	Q	How wide is the Milky Way galaxy ?
+NUM	T	Q	How far is a nautical mile ?
+NUM	T	Q	How far is Pluto from the sun ?
+NUM	T	Q	What is the distance in miles from the earth to the sun ?
+NUM	T	Q	What is the depth of the Nile river ?
+NUM	T	Q	What is the width of a football field ?
+NUM	T	Q	What is the elevation of St. Louis , MO ?
+NUM	T	Q	How long is the Columbia River in miles ?
+NUM	T	Q	How far away is the moon ?
+LOC	T	Q	What state did the Battle of Bighorn take place in ?
+LOC	T	Q	What state is the geographic center of the lower 48 states ?
+LOC	T	Q	What state has the least amount of rain per year ?
+LOC	T	Q	What U.S. state 's motto is `` Live free or Die '' ?
+LOC	T	Q	What province is Montreal in ?
+LOC	T	Q	What French province is cognac produced in ?
+LOC	T	Q	In which state would you find the Catskill Mountains ?
+FT	T	Q	What is Australia 's national flower ?
+FT	T	Q	Material called linen is made from what plant ?
+FT	T	Q	What is Hawaii 's state flower ?
+FT	T	Q	What is the Illinois state flower ?
+FT	T	Q	What is the state flower of Michigan ?
+FT	T	Q	What type of currency is used in Australia ?
+FT	T	Q	What currency is used in Algeria ?
+FT	T	Q	What currency do they use in Brazil ?
+FT	T	Q	What currency does Luxembourg use ?
+FT	T	Q	What currency does Argentina use ?
+FT	T	Q	What is the money they use in Zambia ?
+FT	T	Q	What is the abbreviation for Texas ?
+FT	T	Q	What does I.V. stand for ?
+FT	T	Q	What does USPS stand for ?
+FT	T	Q	What is TMJ ?
+FT	T	Q	What does the technical term ISDN mean ?
+FT	T	Q	What does CPR stand for ?
+FT	T	Q	What does the acronym NASA stand for ?
+FT	T	Q	What does NASA stand for ?
+FT	T	Q	What does the abbreviation SOS mean ?
+NUM	T	Q	What is the average speed of the horses at the Kentucky Derby ?
+NUM	T	Q	What is the speed hummingbirds fly ?
+NUM	T	Q	How fast is alcohol absorbed ?
+NUM	T	Q	How fast is the speed of light ?
+NUM	T	Q	How fast is sound ?
+NUM	T	Q	What is the speed of light ?
+FT	T	Q	George Bush purchased a small interest in which baseball team ?
+FT	T	Q	What is the name of the chocolate company in San Francisco ?
+FT	T	Q	What is the oldest university in the US ?
+FT	T	Q	What baseball team was the first to make numbers part of their uniform ?
+FT	T	Q	What did Jesse Jackson organize ?
+FT	T	Q	What chain store is headquartered in Bentonville , Arkansas ?
+FT	T	Q	The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?
+FT	T	Q	What was President Lyndon Johnson 's reform program called ?
+FT	T	Q	What instrument did Glenn Miller play ?
+NUM	T	Q	What is the life expectancy for crickets ?
+NUM	T	Q	What is the population of Seattle ?
+NUM	T	Q	What is the population of China ?
+NUM	T	Q	What is the melting point of copper ?
+NUM	T	Q	What is the population of Nigeria ?
+NUM	T	Q	What is the life expectancy of a dollar bill ?
+NUM	T	Q	What is the melting point of gold ?
+NUM	T	Q	What is the population of Australia ?
+NUM	T	Q	How often does Old Faithful erupt at Yellowstone National Park ?
+NUM	T	Q	What is the world 's population ?
+NUM	T	Q	What is the sales tax rate in New York ?
+NUM	T	Q	What is the population of Venezuela ?
+FT	T	Q	What is foot and mouth disease ?
+FT	T	Q	Name a stimulant .
+NUM	T	Q	How old was Elvis Presley when he died ?
+NUM	T	Q	How long did Rip Van Winkle sleep ?
+NUM	T	Q	What is the gestation period for a cat ?
+NUM	T	Q	What is the average life span for a chicken ?
+NUM	T	Q	How old was Joan of Arc when she died ?
+NUM	T	Q	For how long is an elephant pregnant ?
+NUM	T	Q	How old do you have to be in order to rent a car in Italy ?
+NUM	T	Q	How old was the youngest president of the United States ?
+LOC	T	Q	Where are the Rocky Mountains ?
+LOC	T	Q	Which mountain range in North America stretches from Maine to Georgia ?
+LOC	T	Q	What is the fourth highest mountain in the world ?
+FT	T	Q	How do you measure earthquakes ?
+FT	T	Q	How did Janice Joplin die ?
+NUM	T	Q	What is the percentage of water content in the human body ?
+NUM	T	Q	What is the murder rate in Windsor , Ontario ?
+NUM	T	Q	Developing nations comprise what percentage of the world 's population ?
+FT	T	Q	Why does the moon turn orange ?
+FT	T	Q	Why is a ladybug helpful ?
+FT	T	Q	What causes gray hair ?
+FT	T	Q	What is the esophagus used for ?
+FT	T	Q	Why is the sun yellow ?
+FT	T	Q	Why in tennis are zero points called love ?
+FT	T	Q	What position did Willie Davis play in baseball ?
+DT	T	Q	When did Hawaii become a state ?
+DT	T	Q	When did Idaho become a state ?
+DT	T	Q	What year did the Titanic sink ?
+DT	T	Q	When did John F. Kennedy get elected as President ?
+DT	T	Q	When did Elvis Presley die ?
+DT	T	Q	What day and month did John Lennon die ?
+DT	T	Q	When was the first liver transplant ?
+DT	T	Q	When was Rosa Parks born ?
+DT	T	Q	What year did Canada join the United Nations ?
+DT	T	Q	Mercury , what year was it discovered ?
+DT	T	Q	When were William Shakespeare 's twins born ?
+DT	T	Q	When did the Hindenberg crash ?
+DT	T	Q	What was the last year that the Chicago Cubs won the World Series ?
+DT	T	Q	What year did WWII begin ?
+DT	T	Q	During which season do most thunderstorms occur ?
+DT	T	Q	When was Algeria colonized ?
+DT	T	Q	When is hurricane season in the Caribbean ?
+DT	T	Q	When was Lyndon B. Johnson born ?
+DT	T	Q	What year did the Milwaukee Braves become the Atlanta Braves ?
+DT	T	Q	When is the summer solstice ?
+DT	T	Q	When was the first stamp issued ?
+DT	T	Q	When was the first Wal-Mart store opened ?
+DT	T	Q	What year did the United States abolish the draft ?
+DT	T	Q	What year was the Mona Lisa painted ?
+DT	T	Q	What year did the U.S. buy Alaska ?
+DT	T	Q	What year did Oklahoma become a state ?
+DT	T	Q	What year did the NFL go on strike ?
+DT	T	Q	What date did Neil Armstrong land on the moon ?
+DT	T	Q	When was Hiroshima bombed ?
+DT	T	Q	What year did Mussolini seize power in Italy ?
+DT	T	Q	When was President Kennedy shot ?
+DT	T	Q	What date was Dwight D. Eisenhower born ?
+DT	T	Q	When was Abraham Lincoln born ?
+DT	T	Q	What year was Mozart born ?
+DT	T	Q	What year did the Andy Griffith show begin ?
+DT	T	Q	What is the date of Mexico 's independence ?
+DT	T	Q	When did North Carolina enter the union ?
+DT	T	Q	When was Ulysses S. Grant born ?
+DT	T	Q	When is Father 's Day ?
+DT	T	Q	When was the Boston tea party ?
+DT	T	Q	When was the first kidney transplant ?
+DT	T	Q	When is the official first day of summer ?
+DT	T	Q	When is St. Patrick 's Day ?
+DT	T	Q	When was Thomas Jefferson born ?
+DT	T	Q	When was the telephone invented ?
+DT	T	Q	What is Susan B. Anthony 's birthday ?
+DT	T	Q	What year did the Titanic start on its journey ?
+FT	T	Q	What do you call a newborn kangaroo ?
+FT	T	Q	What is another name for vitamin B1 ?
+FT	T	Q	What is another astronomic term for the Northern Lights ?
+FT	T	Q	What are the spots on dominoes called ?
+FT	T	Q	What is the colorful Korean traditional dress called ?
+FT	T	Q	What do you call a professional map drawer ?
+FT	T	Q	What do you call a word that is spelled the same backwards and forwards ?
+NUM	T	Q	How much was a ticket for the Titanic ?
+NUM	T	Q	Mexican pesos are worth what in U.S. dollars ?
+NUM	T	Q	What is the conversion rate between dollars and pounds ?
+LOC	T	Q	What country did Ponce de Leon come from ?
+LOC	T	Q	Which country has the most water pollution ?
+LOC	T	Q	Which country gave New York the Statue of Liberty ?
+NUM	T	Q	What is the temperature at the center of the earth ?
+NUM	T	Q	What is the temperature of the sun 's surface ?
+NUM	T	Q	The sun 's core , what is the temperature ?
+NUM	T	Q	What is the average body temperature ?
+NUM	T	Q	How cold should a refrigerator be ?
+LOC	T	Q	What river in the US is known as the Big Muddy ?
+LOC	T	Q	What imaginary line is halfway between the North and South Poles ?
+LOC	T	Q	Where is John Wayne airport ?
+LOC	T	Q	What hemisphere is the Philippines in ?
+LOC	T	Q	Where is the Orinoco River ?
+LOC	T	Q	What river flows between Fargo , North Dakota and Moorhead , Minnesota ?
+LOC	T	Q	What strait separates North America from Asia ?
+LOC	T	Q	Where is the Mall of the America ?
+LOC	T	Q	Where is Prince Edward Island ?
+LOC	T	Q	What is the highest dam in the U.S. ?
+LOC	T	Q	Where is Perth ?
+LOC	T	Q	Where is the Holland Tunnel ?
+LOC	T	Q	Where are the National Archives ?
+LOC	T	Q	What continent is Egypt on ?
+LOC	T	Q	In the late 1700 's British convicts were used to populate which colony ?
+LOC	T	Q	Where is the volcano Mauna Loa ?
+LOC	T	Q	What peninsula is Spain part of ?
+LOC	T	Q	Where is the Shawnee National Forest ?
+LOC	T	Q	Where is the Lourve ?
+LOC	T	Q	What body of water are the Canary Islands in ?
+LOC	T	Q	Where is the Euphrates River ?
+LOC	T	Q	Where did Howard Hughes die ?
+LOC	T	Q	Where is the volcano Olympus Mons located ?
+LOC	T	Q	What New York City structure is also known as the Twin Towers ?
+LOC	T	Q	Where is the Grand Canyon ?
+LOC	T	Q	In Poland , where do most people live ?
+LOC	T	Q	What is the location of the Sea of Tranquility ?
+LOC	T	Q	What is the longest suspension bridge in the U.S. ?
+LOC	T	Q	What planet is known as the `` red '' planet ?
+LOC	T	Q	Where on the body is a mortarboard worn ?
+LOC	T	Q	Where is Hitler buried ?
+LOC	T	Q	Where is the Savannah River ?
+LOC	T	Q	What planet has the strongest magnetic field of all the planets ?
+LOC	T	Q	Where is the Eiffel Tower ?
+LOC	T	Q	What is the deepest lake in the US ?
+LOC	T	Q	Where is the Little League Museum ?
+LOC	T	Q	What is the brightest star ?
+LOC	T	Q	What is the street address of the White House ?
+LOC	T	Q	What is the location of Lake Champlain ?
+LOC	T	Q	What soviet seaport is on the Black Sea ?
+LOC	T	Q	Where do apple snails live ?
+LOC	T	Q	Where is the Mason/Dixon line ?
+LOC	T	Q	What are Canada 's two territories ?
+LOC	T	Q	What continent is Argentina on ?
+LOC	T	Q	Where is the tallest roller coaster located ?
+LOC	T	Q	Where are the British crown jewels kept ?
+LOC	T	Q	What is the rainiest place on Earth ?
+LOC	T	Q	Where was the first golf course in the United States ?
+LOC	T	Q	What is the National Park in Utah ?
+LOC	T	Q	What river runs through Rowe , Italy ?
+FT	T	Q	What 's the easiest way to remove wallpaper ?
+FT	T	Q	What metal has the highest melting point ?
+FT	T	Q	What mineral helps prevent osteoporosis ?
+FT	T	Q	What is natural gas composed of ?
+FT	T	Q	What is the birthstone for June ?
+FT	T	Q	What is pastrami made of ?
+FT	T	Q	What is plastic made of ?
+FT	T	Q	What is the statue of liberty made of ?
+FT	T	Q	What is a mirror made out of ?
+FT	T	Q	What birthstone is turquoise ?
+FT	T	Q	What is the heaviest naturally occurring element ?
+FT	T	Q	What are cigarettes made of ?
+FT	T	Q	What gasses are in the troposphere ?
+FT	T	Q	What precious stone is a form of pure carbon ?
+FT	T	Q	What kind of gas is in a fluorescent bulb ?
+FT	T	Q	What is the birthstone of October ?
+FT	T	Q	What is the proper name for a female walrus ?
+FT	T	Q	What is a group of turkeys called ?
+FT	T	Q	What is the Ohio state bird ?
+FT	T	Q	What is the name of Roy Roger 's dog ?
+FT	T	Q	What is a baby turkey called ?
+FT	T	Q	What are the animals that don 't have backbones called ?
+FT	T	Q	What is a group of frogs called ?
+FT	T	Q	What is Maryland 's state bird ?
+FT	T	Q	What kind of dog was Toto in the Wizard of Oz ?
+FT	T	Q	What is a baby lion called ?
+FT	T	Q	What is the name given to the Tiger at Louisiana State University ?
+FT	T	Q	What is the smallest bird in Britain ?
+FT	T	Q	What is the scientific name for elephant ?
+FT	T	Q	What breed of hunting dog did the Beverly Hillbillies own ?
+FT	T	Q	What was FDR 's dog 's name ?
+FT	T	Q	What is New York 's state bird ?
+FT	T	Q	What is the most popular sport in Japan ?
+FT	T	Q	What is an atom ?
+FT	T	Q	What is autism ?
+FT	T	Q	What is epilepsy ?
+FT	T	Q	What is a biosphere ?
+FT	T	Q	What is bipolar disorder ?
+FT	T	Q	What is cholesterol ?
+FT	T	Q	What is caffeine ?
+FT	T	Q	What are invertebrates ?
+FT	T	Q	What is Teflon ?
+FT	T	Q	What is amitriptyline ?
+FT	T	Q	What is a shaman ?
+FT	T	Q	What are triglycerides ?
+FT	T	Q	What are amphibians ?
+FT	T	Q	What is fibromyalgia ?
+FT	T	Q	What does cc in engines mean ?
+FT	T	Q	What are spider veins ?
+FT	T	Q	What is the pH scale ?
+FT	T	Q	What is a prism ?
+FT	T	Q	What is amoxicillin ?
+FT	T	Q	What are xerophytes ?
+FT	T	Q	What is desktop publishing ?
+FT	T	Q	What is cryogenics ?
+FT	T	Q	What are coral reefs ?
+FT	T	Q	What is neurology ?
+FT	T	Q	What is a micron ?
+FT	T	Q	What is acupuncture ?
+FT	T	Q	What is an eclipse ?
+FT	T	Q	What is Wimbledon ?
+FT	T	Q	What does target heart rate mean ?
+FT	T	Q	What is foreclosure ?
+FT	T	Q	What are platelets ?
+FT	T	Q	What is severance pay ?
+FT	T	Q	What is poliomyelitis ?
+FT	T	Q	What does Phi Beta Kappa mean ?
+FT	T	Q	What is nicotine ?
+FT	T	Q	What are sunspots ?
+FT	T	Q	What is nanotechnology ?
+FT	T	Q	What is an obtuse angle ?
+FT	T	Q	What are polymers ?
+FT	T	Q	What is acetaminophen ?
+FT	T	Q	What is supernova ?
+FT	T	Q	What is neuropathy ?
+FT	T	Q	What is cryptography ?
+FT	T	Q	What is leukemia ?
+FT	T	Q	What is relative humidity ?
+FT	T	Q	What is fungus ?
+FT	T	Q	What is sodium chloride ?
+FT	T	Q	What is influenza ?
+FT	T	Q	What is ozone depletion ?
+FT	T	Q	What does `` Sitting Shiva '' mean ?
+FT	T	Q	What is phenylalanine ?
+FT	T	Q	What is sonar ?
+FT	T	Q	What is phosphorus ?
+FT	T	Q	What is Valentine 's Day ?
+FT	T	Q	What is hypertension ?
+FT	T	Q	What is bandwidth ?
+FT	T	Q	What is a parasite ?
+FT	T	Q	What is home equity ?
+FT	T	Q	What is pilates ?
+FT	T	Q	What is Mardi Gras ?
+FT	T	Q	What does the word fortnight mean ?
+FT	T	Q	What is dianetics ?
+FT	T	Q	What is osteoporosis ?
+FT	T	Q	What is peyote ?
+FT	T	Q	What is viscosity ?
+FT	T	Q	What is the chunnel ?
+FT	T	Q	What are antacids ?
+FT	T	Q	What is pulmonary fibrosis ?
+FT	T	Q	What are Quaaludes ?
+FT	T	Q	What is naproxen ?
+FT	T	Q	What is strep throat ?
+FT	T	Q	What are Aborigines ?
+FT	T	Q	What is hybridization ?
+FT	T	Q	What is solar wind ?
+FT	T	Q	What is pneumonia ?
+FT	T	Q	What is a fuel cell ?
+FT	T	Q	What is diabetes ?
+FT	T	Q	What is the Milky Way ?
+FT	T	Q	What is mold ?
+FT	T	Q	What is semolina ?
+FT	T	Q	What is Ursa Major ?
+FT	T	Q	What is acid rain ?
+FT	T	Q	What is quicksilver ?
+FT	T	Q	What is a thyroid ?
+FT	T	Q	What does ciao mean ?
+FT	T	Q	What is acetic acid ?
+FT	T	Q	What is the Moulin Rouge ?
+FT	T	Q	What are pathogens ?
+FT	T	Q	What is mad cow disease ?
+FT	T	Q	What are ethics ?
+FT	T	Q	What is an annuity ?
+FT	T	Q	What is Muscular Dystrophy ?
+FT	T	Q	What is propylene glycol ?
+FT	T	Q	What is a panic disorder ?
+FT	T	Q	What is a carcinogen ?
+FT	T	Q	What is nepotism ?
+FT	T	Q	What is die-casting ?
+FT	T	Q	What is myopia ?
+FT	T	Q	What is carbon dioxide ?
+FT	T	Q	What is metabolism ?
+FT	T	Q	What are semiconductors ?
+FT	T	Q	What is nuclear power ?
+FT	T	Q	What is a tsunami ?
+FT	T	Q	What is genocide ?
+FT	T	Q	What is an earthquake ?
+FT	T	Q	What are enzymes ?
+FT	T	Q	What is bangers and mash ?
+FT	T	Q	What is an ulcer ?
+FT	T	Q	What is vertigo ?
+FT	T	Q	What is the spirometer test ?
+FT	T	Q	What is schizophrenia ?
+FT	T	Q	What is angiotensin ?
+FT	T	Q	What are pediatricians ?
+FT	T	Q	What are solar cells ?
+FT	T	Q	What is compounded interest ?
+FT	T	Q	What are capers ?
+FT	T	Q	What is an antigen ?
+FT	T	Q	What is a thermometer ?
+FT	T	Q	What is rheumatoid arthritis ?
+FT	T	Q	What is cerebral palsy ?
+FT	T	Q	What is pectin ?
+FT	T	Q	What is bio-diversity ?
+FT	T	Q	What is e-coli ?FT	T	Q	What is the longest major league baseball-winning streak ?
+FT	T	Q	What is the major fault line near Kentucky ?
+FT	T	Q	What is the sales tax in Minnesota ?
+FT	T	Q	What is the electrical output in Madrid , Spain ?
+FT	T	Q	What are the two houses of the Legislative branch ?
+FT	T	Q	What is the criterion for being legally blind ?
+FT	T	Q	What did Edward Binney and Howard Smith invent in 1903 ?
+FT	T	Q	What does a barometer measure ?
+FT	T	Q	What are the two types of twins ?
+FT	T	Q	What monastery was raided by Vikings in the late eighth century ?
+FT	T	Q	What type of polymer is used for bulletproof vests ?
+FT	T	Q	What is the source of natural gas ?
+NUM	T	Q	What is the average weight of a Yellow Labrador ?
+NUM	T	Q	How much does the human adult female brain weigh ?
+NUM	T	Q	How much does water weigh ?
+NUM	T	Q	What is the atomic weight of silver ?
+FT	T	Q	What is the longest bone in the human body ?
+FT	T	Q	What is the only artery that carries blue blood from the heart to the lungs ?
+FT	T	Q	What color is a poison arrow frog ?
+FT	T	Q	What primary colors do you mix to make orange ?
+FT	T	Q	What color is indigo ?
+FT	T	Q	What color is a giraffe 's tongue ?
+FT	T	Q	What color is yak milk ?
+FT	T	Q	What color does litmus paper turn when it comes into contact with a strong acid ?
+FT	T	Q	What are the colors of the German flag ?
+FT	T	Q	What colors need to be mixed to get the color pink ?
+FT	T	Q	What is the most common eye color ?
+FT	T	Q	What color are crickets ?
+FT	T	Q	What were Christopher Columbus ' three ships ?
+FT	T	Q	What is the name of William Penn 's ship ?
+FT	T	Q	What was the name of the plane Lindbergh flew solo across the Atlantic ?
+FT	T	Q	In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?
+FT	T	Q	What person 's head is on a dime ?
+FT	T	Q	Who was the first man to fly across the Pacific Ocean ?
+FT	T	Q	Who developed the vaccination against polio ?
+FT	T	Q	Who was the first American to walk in space ?
+FT	T	Q	Who developed the Macintosh computer ?
+FT	T	Q	Who discovered x-rays ?
+FT	T	Q	Which comedian 's signature line is `` Can we talk '' ?
+FT	T	Q	What was W.C. Fields ' real name ?
+FT	T	Q	What American composer wrote the music for `` West Side Story '' ?
+FT	T	Q	Who was the first governor of Alaska ?
+FT	T	Q	Who was elected president of South Africa in 1994 ?
+FT	T	Q	Who was the first female United States Representative ?
+FT	T	Q	Who invented the calculator ?
+FT	T	Q	What is the name of Neil Armstrong 's wife ?
+FT	T	Q	Who won Ms. American in 1989 ?
+FT	T	Q	Who discovered America ?
+FT	T	Q	Which president was unmarried ?
+FT	T	Q	Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?
+FT	T	Q	Who wrote the hymn `` Amazing Grace '' ?
+FT	T	Q	Who is a German philosopher ?
+FT	T	Q	Who discovered radium ?
+FT	T	Q	Who founded American Red Cross ?
+FT	T	Q	Who is the Prime Minister of Canada ?
+FT	T	Q	What French ruler was defeated at the battle of Waterloo ?
+FT	T	Q	Who invented the hula hoop ?
+FT	T	Q	Who invented the slinky ?
+FT	T	Q	Who was the 23rd president of the United States ?
+FT	T	Q	Who invented the telephone ?
+FT	T	Q	What is the name of the leader of Ireland ?
+FT	T	Q	Who is the tallest man in the world ?
+FT	T	Q	Who was the first African American to play for the Brooklyn Dodgers ?
+FT	T	Q	Who was the first Prime Minister of Canada ?
+FT	T	Q	Who was the first woman governor in the U.S. ?
+FT	T	Q	What was J.F.K. 's wife 's name ?
+FT	T	Q	Who was the first woman killed in the Vietnam War ?
+FT	T	Q	Who is the governor of Alaska ?
+FT	T	Q	Who was the first U.S. president to appear on TV ?
+FT	T	Q	Who is the only president to serve 2 non-consecutive terms ?
+FT	T	Q	Who painted the ceiling of the Sistine Chapel ?
+FT	T	Q	Who wrote `` The Divine Comedy '' ?
+FT	T	Q	Who killed John F. Kennedy ?
+FT	T	Q	Who was the first vice president of the U.S. ?
+FT	T	Q	Who was the first US President to ride in an automobile to his inauguration ?
+FT	T	Q	Who lived in the Neuschwanstein castle ?
+FT	T	Q	Who invented the instant Polaroid camera ?
+FT	T	Q	What is Shakespeare 's nickname ?
+FT	T	Q	Which U.S.A. president appeared on `` Laugh-In '' ?
+FT	T	Q	Who is the congressman from state of Texas on the armed forces committee ?
+FT	T	Q	Who was president in 1913 ?
+FT	T	Q	Who discovered oxygen ?
+FT	T	Q	Who was the first person to reach the North Pole ?
+FT	T	Q	Who invented Trivial Pursuit ?
+FT	T	Q	Who is the actress known for her role in the movie `` Gypsy '' ?
+FT	T	Q	Who was the first African American to win the Nobel Prize in literature ?
+FT	T	Q	Who was the 22nd President of the US ?
+FT	T	Q	What is done with worn or outdated flags ?
+FT	T	Q	What does a defibrillator do ?
+FT	T	Q	What is the effect of acid rain ?
+FT	T	Q	What does your spleen do ?
+FT	T	Q	What do meteorologists do ?
+FT	T	Q	What is the difference between AM radio stations and FM radio stations ?
+FT	T	Q	What is the effect of volcanoes on the climate ?
+FT	T	Q	Who was Galileo ?
+FT	T	Q	Who was Abraham Lincoln ?
+FT	T	Q	Who is Duke Ellington ?
+NUM	T	Q	How much fiber should you have per day ?
+NUM	T	Q	How many Great Lakes are there ?
+NUM	T	Q	How many liters in a gallon ?
+NUM	T	Q	How many pounds in a ton ?
+NUM	T	Q	How many gallons of water are there in a cubic foot ?
+NUM	T	Q	How many Admirals are there in the U.S. Navy ?
+NUM	T	Q	How many hearts does an octopus have ?
+NUM	T	Q	How much of an apple is water ?
+NUM	T	Q	How many feet in a mile ?
