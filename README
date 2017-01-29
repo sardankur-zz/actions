@@ -1,0 +1,5 @@
+To simplify email conversations, an AI assistant in the form of a chrome extension tuned to gmail Web-Client, uses a classifier built using machine learning to find question that needs to be answered/replied. These are further bucketed into certain types of questions which are mapped to UI elements. For eg., a boolean question is mapped to a checkbox, an open ended question is mapped to a input text box etc.
+
+Technologies used :
+- Scikit (python)
+- Gmailjs
